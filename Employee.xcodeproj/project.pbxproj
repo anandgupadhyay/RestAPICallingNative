@@ -21,7 +21,6 @@
 		5CB8C5F6292CE6A900A4E380 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB8C5F5292CE6A800A4E380 /* UIViewControllerExtension.swift */; };
 		5CB8C5F8292CE6E300A4E380 /* StoryboardDesignable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB8C5F7292CE6E300A4E380 /* StoryboardDesignable.swift */; };
 		5CBFE9BE292D02E40028FD80 /* DBHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBFE9BD292D02E40028FD80 /* DBHelper.swift */; };
-		FE068F6B2943379D00BF6D79 /* ResponseError.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE068F662943379D00BF6D79 /* ResponseError.swift */; };
 		FE068F6C2943379D00BF6D79 /* HTTPMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE068F672943379D00BF6D79 /* HTTPMethod.swift */; };
 		FE068F6D2943379D00BF6D79 /* HTTPHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE068F682943379D00BF6D79 /* HTTPHeader.swift */; };
 		FE068F6E2943379D00BF6D79 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE068F692943379D00BF6D79 /* ServiceManager.swift */; };
@@ -46,7 +45,6 @@
 		5CB8C5F5292CE6A800A4E380 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
 		5CB8C5F7292CE6E300A4E380 /* StoryboardDesignable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardDesignable.swift; sourceTree = "<group>"; };
 		5CBFE9BD292D02E40028FD80 /* DBHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBHelper.swift; sourceTree = "<group>"; };
-		FE068F662943379D00BF6D79 /* ResponseError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseError.swift; sourceTree = "<group>"; };
 		FE068F672943379D00BF6D79 /* HTTPMethod.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPMethod.swift; sourceTree = "<group>"; };
 		FE068F682943379D00BF6D79 /* HTTPHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPHeader.swift; sourceTree = "<group>"; };
 		FE068F692943379D00BF6D79 /* ServiceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 		FE068F652943379D00BF6D79 /* Service */ = {
 			isa = PBXGroup;
 			children = (
-				FE068F662943379D00BF6D79 /* ResponseError.swift */,
 				FE068F672943379D00BF6D79 /* HTTPMethod.swift */,
 				FE068F682943379D00BF6D79 /* HTTPHeader.swift */,
 				FE068F692943379D00BF6D79 /* ServiceManager.swift */,
@@ -261,7 +258,6 @@
 				FE068F6D2943379D00BF6D79 /* HTTPHeader.swift in Sources */,
 				5CB8C59C292CD7AA00A4E380 /* UIViewExtension.swift in Sources */,
 				5CB8C5BB292CE38300A4E380 /* UIFontExtension.swift in Sources */,
-				FE068F6B2943379D00BF6D79 /* ResponseError.swift in Sources */,
 				5CB8C589292CD16B00A4E380 /* SceneDelegate.swift in Sources */,
 				5CB8C5AB292CDA4F00A4E380 /* Reachability.swift in Sources */,
 				5CB8C5F6292CE6A900A4E380 /* UIViewControllerExtension.swift in Sources */,
